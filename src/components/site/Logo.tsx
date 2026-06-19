@@ -7,7 +7,7 @@ export function Logo({ className = "h-10 w-auto" }: { className?: string }) {
       alt="ZEGORA Foreign Employment Agency"
       className={className}
       width={600}
-      height={180}
+      height={1800}
       draggable={false}
     />
   );
